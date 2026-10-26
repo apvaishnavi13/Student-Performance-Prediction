@@ -1,0 +1,26 @@
+Student Performance Prediction Using Machine Learning
+
+Project Overview
+This beginner-level project uses machine learning to predict student academic performance based on study hours, attendance, and previous marks.
+
+Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+Key Features
+- Student data analysis
+- Data visualisation
+- Linear Regression model
+- Model evaluation using MAE and R-squared
+- Prediction of marks for a new student
+
+Dataset
+This initial version uses a small illustrative dataset created for learning purposes.
+
+How to Run
+Open the Jupyter notebook in Google Colab and execute the cells in order.
+
+Future Improvements
+Analyse a larger real-world dataset and compare machine learning algorithms.
